@@ -11,7 +11,7 @@ namespace BAITAPC_.Session_6.Part2
             int[] numbers = new int[10];
 
             // 1. Yêu cầu người dùng nhập 10 số nguyên
-            Console.WriteLine("--- CHUONG TRINH BUBBLE SORT ---");
+            Console.WriteLine("CHUONG TRINH BUBBLE SORT");
             Console.WriteLine("Vui long nhap vao 10 so nguyen:");
             for (int i = 0; i < numbers.Length; i++)
             {

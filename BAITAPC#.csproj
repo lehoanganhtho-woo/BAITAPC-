@@ -9,13 +9,5 @@
     <StartupObject>BAITAPC_.Session_6.Part2.Bai2</StartupObject>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Session 4\" />
-    <Folder Include="Session 3\" />
-    <Folder Include="Session 2\" />
-    <Folder Include="Session 7\" />
-    <Folder Include="Session 1\" />
-  </ItemGroup>
-
 </Project>
 
