@@ -6,5 +6,6 @@ namespace BAITAPC_.Session_2
 {
     internal class Bai1
     {
+
     }
 }
